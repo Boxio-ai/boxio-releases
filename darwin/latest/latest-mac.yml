@@ -1,0 +1,17 @@
+version: 4.6.0
+files:
+  - url: ElectronReact-4.6.0-arm64-mac.zip
+    sha512: djUI0K5eUGZnn6LjQHANzkAtbp4EPgrESk5YMMt4K0j2eDoZxf7vwR/cHIeQ9wChu0OJw7MOQxCERr/i8ZM/Wg==
+    size: 86217110
+  - url: ElectronReact-4.6.0-mac.zip
+    sha512: Zc5ws3yF1D+qVCdQJdEA+CNOz3mlS+HkAFj3ePhPp9AyIy7fu9C7lQiMAu30IXUuS5jhwfu4kmzE7lJYUtN0RQ==
+    size: 91632410
+  - url: ElectronReact-4.6.0-arm64.dmg
+    sha512: r3f7zSW3I5N/XijoXa0El3KOePUFbZkyH0yvg6e5OOWMxjG9TNf3GkjboVSK+SLmK+z0F+/WBXIY4R3B3VO9Ug==
+    size: 89740609
+  - url: ElectronReact-4.6.0.dmg
+    sha512: T68+ooEH7K65PHsz89DQ0gRmCwo8Co5JNXgnW45YQ56M1BAJJjjnV+BhElKe1B8ccKCIQPU08l7zpuNMy8WSbg==
+    size: 95099157
+path: ElectronReact-4.6.0-arm64-mac.zip
+sha512: djUI0K5eUGZnn6LjQHANzkAtbp4EPgrESk5YMMt4K0j2eDoZxf7vwR/cHIeQ9wChu0OJw7MOQxCERr/i8ZM/Wg==
+releaseDate: '2023-06-27T07:33:01.160Z'
